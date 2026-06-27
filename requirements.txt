@@ -1,0 +1,12 @@
+opencv-python
+numpy
+openpyxl
+python-dotenv
+mediapipe
+twilio
+cryptography
+psutil
+requests
+google-api-python-client
+google-auth
+google-auth-oauthlib
