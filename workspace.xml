@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1762baba-24a3-4f08-8c5e-36a61bf3d047" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/1.05.26.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/23_04_26.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/claudetestfile.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/dummytestfile.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xtgjfNoPym42a9SZKdeBBKtj70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.05.26.executor": "Run",
+    "Python.14_04_26.executor": "Run",
+    "Python.22_04_26.executor": "Run",
+    "Python.23_04_26.executor": "Run",
+    "Python.S.C.A.N.S.executor": "Run",
+    "Python.claude_testfile.executor": "Run",
+    "Python.claudetestfile.executor": "Run",
+    "Python.dummytestfile.executor": "Run",
+    "Python.parser.executor": "Run",
+    "Python.running file.executor": "Run",
+    "Python.running_file1.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.test file.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/pycharm projects/known_faces"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm projects\known_faces" />
+      <recent name="D:\pycharm projects" />
+      <recent name="C:\Users\DELL\AppData\Roaming\JetBrains\PyCharmCE2025.1\scratches\known_faces" />
+      <recent name="C:\Users\DELL\AppData\Roaming\JetBrains\PyCharmCE2025.1\scratches\know_faces" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1762baba-24a3-4f08-8c5e-36a61bf3d047" name="Changes" comment="" />
+      <created>1748762919937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748762919937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
